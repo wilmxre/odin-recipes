@@ -1,0 +1,33 @@
+body {
+  background-color: #E1BB80;
+  color: #352208;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+ul.recipes-container {
+  font-size: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.back {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
